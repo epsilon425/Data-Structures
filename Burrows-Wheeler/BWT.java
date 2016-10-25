@@ -1,4 +1,4 @@
-
+ 
 public class BWT
 {
 	public static int R = 256;
