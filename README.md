@@ -1,5 +1,5 @@
 DataStructures implemented in Java  
-1. Burrows-Wheeler  
+1. Burrows-Wheeler   
 -Practices: Array Sorting, Burrows-Wheeler algorithm, a pre-step for compressing files
 -Function: Implements Burrows-Wheeler algorithm on text files using msd sorting, quick sorting, and workd ranking.  Burrows wheeler algorithm transforms lines of texts into the shifted version of the original with added significer that works   as the anchor so that it can (theoretically uncompress) revert back to its original"  
 2. Edge Percolation  
